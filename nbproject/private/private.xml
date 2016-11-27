@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <coverage xmlns="http://www.netbeans.org/ns/code-coverage/1" enabled="false"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xammp/htdocs/lara5.2/resources/views/admin/menus/edit.blade.php</file>
+            <file>file:/D:/xammp/htdocs/lara5.2/public/js/load.js</file>
+            <file>file:/D:/xammp/htdocs/lara5.2/resources/views/admin/menus/Menus.blade.php</file>
+            <file>file:/D:/xammp/htdocs/lara5.2/resources/views/admin/layout.blade.php</file>
+            <file>file:/D:/xammp/htdocs/lara5.2/resources/views/admin/menus/create.blade.php</file>
+            <file>file:/D:/xammp/htdocs/lara5.2/public/css/load.css</file>
+            <file>file:/D:/xammp/htdocs/lara5.2/app/Http/routes.php</file>
+            <file>file:/D:/xammp/htdocs/lara5.2/app/Http/Controllers/MenusController.php</file>
+        </group>
+    </open-files>
+</project-private>

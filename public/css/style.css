@@ -1,0 +1,38 @@
+img {
+
+	border-radius: 5px
+}
+
+.widthImg img {
+     width: 100px ;
+     height: 100px
+}
+
+.add-menus{
+     
+     min-height: 500px;
+     padding: 10px;
+     margin-bottom: 5px; 
+}
+.form-control {
+ margin: 5px    
+}
+
+.btn {
+     margin: 5px;
+   
+}
+
+*a:hover{
+     text-decoration : none 
+}
+
+.img-edit-menu{
+     
+   border: 1px solid #000 ;
+     
+}
+
+h1{
+     color: #999 
+}
