@@ -11,12 +11,6 @@ use App\Menu; // Just to get all menu ( id => name ) per items from menu table i
 
 class ItemsController extends Controller {
 
-     // To Make User login in First  
-     public function __construct() {
-
-          $this->middleware('auth');
-     }
-
      /**
       * Display a listing of the resource.
       *

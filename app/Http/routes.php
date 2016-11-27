@@ -15,9 +15,10 @@ Route::get('/', function () {
      return view('welcome');
 });
 
-Route::auth();
+Route::auth('admin');
+Route::auth('user');
 
-Route::group(['prefix' => 'admin/','Middleware'=>'auth'],function(){
+Route::group(['prefix' => 'admin/','middleware'=>'auth'],function(){
      Route::get('home', 'HomeController@index');
 
      Route::resource('menus', 'MenusController');
@@ -40,3 +41,7 @@ Route::get('logout', function() {
 });
 
 
+
+Route::auth();
+
+Route::get('/home', 'HomeController@index');
